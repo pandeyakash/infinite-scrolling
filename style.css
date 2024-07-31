@@ -1,0 +1,23 @@
+h1 {
+  text-align: center;
+}
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.card {
+  border: 2px solid lightslategray;
+  width: 300px;
+  height: 350px;
+  margin-bottom: 10px;
+  border-radius: 10px;
+}
+
+img {
+  width: 100%;
+  height: 70%;
+  border-radius: 10px;
+}
